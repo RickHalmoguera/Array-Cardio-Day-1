@@ -2,7 +2,7 @@
 <p>Día 4 de 30 de<a href="https://javascript30.com/"> JavaScript 30</a> donde se practica los métodos de Arrays en Javascript, que pueden revisar en el siguiente enlace<a href="https://www.w3schools.com/jsref/jsref_obj_array.asp"> JavaScript Array Reference. Para poder visualizar los ejercicios realizados tienes que abrir la consola de tu navegar ( en el caso de Google Chrome darle a la tecla F12)</a></p>
 
 <h1>Preview del proyecto<h1>
-<img align="center" src="CardioArray.gif"/>
+<img align="center" src="./images/CardioArray.gif"/>
 
 <h1>Funciones principales</h1>
   <ul>
