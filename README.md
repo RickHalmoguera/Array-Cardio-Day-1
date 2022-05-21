@@ -23,7 +23,6 @@
     <p>Documentación del metodo Sort()</p>
       <li><p><a href="https://www.w3schools.com/jsref/jsref_reduce.asp">JavaScript Array reduce()</a></p></li>
     <p>Documentación del método Reduce()</p>
-    
     <li><p><a href="https://javascript30.com/">JavaScript 30</a></p></li>
     <p>Página Web donde podrás conseguir 30 proyectos para practicar tus conocimientos de Js. Muy recomendado!</p>
   </ul>
